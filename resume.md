@@ -1,71 +1,79 @@
-Markdown Resumé
+yann 简历
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+[Markdown](https://github.com/cyan-blue/resume/blob/master/resume.md) -> [PDF](https://github.com/cyan-blue/resume/blob/master/resume.pdf), [HTML](https://github.com/cyan-blue/resume/blob/master/resume.html), and more
+<https://github.com/cyan-blue/resume>
 
-Interests
+个人信息
 ---------
+*   黄雁/男/1992
+*   本科/南京邮电大学/软件工程
+*	工作年限：2年
+*	技术博客：http://cyan-blue.github.io
+*   18516341669 907790764@qq.com
+*   热爱生活、热爱工作，持续学习
 
-*   Creating beautiful resumés from simple Markdown documents
 
 
-Work Experience
+工作经历
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **己美** (上海)
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *Python后台*, 2015.04 — 至今
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   网页wap的界面与后台的交互
+	-	承担web后台api的设计和开发
+	-	维护后台的维护和优化
+	-	提高公司整体的工作效率
+	-	疏通公司整体的流程
+	-	与公司其他部门的协同工作
 
-*   **\LaTeX\ + pdflatex**
+*   **上海华勤通讯技术有限公司**
 
-    *Senior Resumé Maker*, 2008 - 2010
+    *android 软件工程师*, 2014.02 — 2015.04
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    *Web Resumé Intern*, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    -   为厂商定制手机解决方案
+	-	主要负责手机通讯、系统模块的任务
+	-	新功能的开发
+	-	解决手机上的bug，分析log
+	-	配合其他部门进行协同工作（MTK、展讯、测试、驱动）
 
 
-Education
+
+
+项目经验
 ---------
+*	**手机X8**
 
-*   **Github University** (World Wide Web)
+	*Android应用工程师   2014.10 - 2015.01*
 
-    *B.S. in Submodules*, May 2012
+	-	这是来公司做的比较典型和完整的项目，从项目的确立到项目的结束，总共有两个多月，为客户提供了完整的健全的手机软件。
+	-	主要负责手机通讯、系统模块的任务。这两个多月里面主要解决Clear Question上面的一百多个bug，还有客户的基本需求的导入，保证的项目的按时进行。
+	-项目之所得：
+		-	工具使用：使用SourceInsight快速查阅代码，熟悉了如何去抓取android的log，并进行分析log，并且快速的定位问题所在，使用android sdk自带的工具如hierarchy、ddms等，还有MTK提供的工具如：gat，catcher等；
+		-	熟悉了Android源码关于短信、电话等从app层到framework再到RIL层的工作流程，对Android的设计有了一定的了解，期间还对设计模式有了自己的认识。
+		-	善于去和MTK、展讯和测试部门进行沟通。
 
 
-Skills
+*	**未接电话处理需求**
+
+	*	项目描述：实现了未接电话的提醒功能，如短信发送、立即回拨，稍后再提示等
+	*	项目责任：这个是客户的一个需求，客户提供了需求说明书，然后从功能的实现，到功能的完善自己独立完成。
+	*	项目之所得：这个功能虽然小，但是Android的基础技术都有用到，如Android的activity、service、listview，广播，数据库的操作，对通话记录的操作。
+
+技能评价
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+*	掌握Android组件、控件等的使用，对于源码有过一定的学习；
+*	熟悉安卓工作流程，能熟练的定位和解决问题，掌握异步开发(熟悉Handler机制、多线程、AynscTask机制等)；
+*	掌握Html、Css、Javascript、JSP、Servlet、XML、JDBC等J2EE技术；
+*	能够使用MyEclipse等IDE开发工具，熟悉Tomcat服务器产品，熟悉安装、调试、发布配置应用；
+*	掌握Oracle、Mysql数据库的操作,能够进行编写SQL语句；
+*	理解并能使用大多数(GOF)设计模式,遵循Java面向对象(OOP)设计原则；
+*	能够很好的运用svn、git进行项目开发，掌握Linux的基本命令；
+*	能够熟练使用 Markdown 进行写作
+*	掌握的JavaScript类库：jQuery、Prototype
+*	掌握项目管理和协同工具的使用：SVN、Git
+*	掌握基本后端开发：NodeJS、Python
+*	掌握web相关技术：MongoDB
