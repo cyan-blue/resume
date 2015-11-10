@@ -1,8 +1,8 @@
 yann 简历
 ===============
 
-[Markdown](https://github.com/cyan-blue/resume/blob/master/resume.md) -> [PDF](https://github.com/cyan-blue/resume/blob/master/resume.pdf), [HTML](https://github.com/cyan-blue/resume/blob/master/resume.html), and more
-<https://github.com/cyan-blue/resume>
+[Markdown](https://github.com/cyan-blue/resume/blob/master/resume.md) -> [PDF](https://github.com/cyan-blue/resume/blob/master/resume.pdf), [HTML](http://cyan-blue.github.io/resume.html), and more
+<http://cyan-blue.github.io/>
 
 个人信息
 ---------
@@ -50,7 +50,7 @@ yann 简历
 
 	-	这是来公司做的比较典型和完整的项目，从项目的确立到项目的结束，总共有两个多月，为客户提供了完整的健全的手机软件。
 	-	主要负责手机通讯、系统模块的任务。这两个多月里面主要解决Clear Question上面的一百多个bug，还有客户的基本需求的导入，保证的项目的按时进行。
-	-项目之所得：
+	-	项目之所得：
 		-	工具使用：使用SourceInsight快速查阅代码，熟悉了如何去抓取android的log，并进行分析log，并且快速的定位问题所在，使用android sdk自带的工具如hierarchy、ddms等，还有MTK提供的工具如：gat，catcher等；
 		-	熟悉了Android源码关于短信、电话等从app层到framework再到RIL层的工作流程，对Android的设计有了一定的了解，期间还对设计模式有了自己的认识。
 		-	善于去和MTK、展讯和测试部门进行沟通。
