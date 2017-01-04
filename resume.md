@@ -1,24 +1,31 @@
 简历
 ===============
 
-[Markdown](https://github.com/cyan-blue/resume/blob/master/resume.md) -> [PDF](https://github.com/cyan-blue/resume/blob/master/resume.pdf), [HTML](http://cyan-blue.github.io/resume.html), and [more]
+[Markdown](https://github.com/cyan-blue/resume/blob/master/resume.md) -> [PDF](https://github.com/cyan-blue/resume/blob/master/resume.pdf), [HTML](https://cyan-blue.github.io/resume.html), and [more]
 (http://cyan-blue.github.io)
 
 个人信息
 ---------
 *	黄雁/男/1992
 *	本科/南京邮电大学/软件工程
-*	工作年限：1年多
-*	技术博客：[github](http://cyan-blue.github.io)
+*	工作年限：超过2年
+*	技术博客：[https://cyan-blue.github.io](https://cyan-blue.github.io)
 *	18516341669 907790764@qq.com
 *	热爱生活、热爱工作，持续学习
 
 工作经历
 ---------------
 
-*   **己美** (上海)
+*   **巨鲸网络科技（上海）有限公司**
+    *Python后台*, 2015.10 — 至今
 
-	*Python后台*, 2015.04 — 至今
+	-   承担mobile cup后台api的设计和开发
+	-   后台的维护和优化
+	-   android的开发
+	-   网页界面
+
+*   **己美** (上海)
+    *Python后台*, 2015.04 — 2015.10
 
 	-   网页wap的界面与后台的交互
 	-   承担web后台api的设计和开发
@@ -26,7 +33,6 @@
 	-   提高公司整体的工作效率
 	-   疏通公司整体的流程
 	-   与公司其他部门的协同工作
-	-   上海华勤通讯技术有限公司
 
 *   **上海华勤通讯技术有限公司** 
 	*android 软件工程师*, 2014.02 — 2015.04
@@ -39,6 +45,22 @@
 
 项目经验
 ---------------
+
+*	**Flask 后台**
+	*2015.10 - 2016.9*
+	-	主要工作： 接口的优化，代码的重构，业务逻辑的编写，写测试case
+
+*	**Android app**
+	*	主要工作： 重构原来的代码，整体采用mvp的框架结构，将model层封装，向上统一提供接口。
+
+*	**官网**
+	*2015.10 -2016.4*
+	
+	-	项目需求：主要展示公司产品，介绍公司，需要做到移动端的适配， 后期的线上维护，seo，a/b测试
+	-	主要涉及技术： html, js, css, flask
+	-	具体实现： 这个不是纯粹的前后端分离，后端用的flask，前端用template渲染，然后前端用到一些第三方库，如full-page,lazy-load
+	-	总结： 比较系统的实践了如何做网页，掌握了一些前端调试的技巧，对css，js，html的代码结构有了比较全的了解，算是自己第一个响应式网页的实践，之前都是零零散散的做。
+
 *	**基于Django的排期系统**
 
 	*Python后台* 2015.9 - 2015.10
@@ -116,20 +138,43 @@
 技能评价
 ---------
 
+*	代码的思想
+	-	理解并能使用大多数设计模式（六大设计原则）,遵循面向对象(OOP)设计原则
+	-	代码最好组件化
+	-	讲究代码整洁性，可测性
+
+*	Python（Flask）
+	-	Flask中级
+
+*	API
+	-	RestFul接口的设计与编写
+
 *	WEB
-	-	掌握基本后端开发：Python，Java
-	-	掌握的JavaScript类库：jQuery、Prototype
-	-	掌握项目管理和协同工具的使用：SVN、Git
-	-	掌握web相关技术：MongoDB、Html、Css、BootStarp、Json；
+	-	基本后端开发：Python，Java
+	-	http协议的基本知识
+	-	一些消息队列的使用，如：rabbitMq
+	-	掌握JavaScript类库：jQuery
+	-	掌握项目管理和协同工具的使用：Git,SVN
+	-	掌握web相关技术：Html、Css、BootStarp、Json、MongoDB
+
 *	ANDROID
-	-	掌握Android组件、控件等的使用，对于源码有过一定的学习；
-	-	熟悉安卓工作流程，能熟练的定位和解决问题，掌握异步开发(熟悉Handler机制、多线程、AynscTask机制等)；
+	-	掌握Android组件、控件等的使用，对于源码有过一定的学习
+	-	android 自定义view
+	-	熟悉安卓工作流程，能熟练的定位和解决问题，掌握异步开发(熟悉Handler机制、多线程、AynscTask机制等)
+
 *	SQL
-	-	掌握的数据库知识：Oracle、Mysql数据库的操作,能够进行编写SQL语句；
+	-	掌握的数据库知识：Oracle、Mysql数据库的操作,能够进行编写SQL语句
 	-	了解基本的存储过程，临时表，作业
+	
 *	TOOLS
-	-	掌握Linux的基本命令；
-	-	掌握基本的vim命令；
-	-	能够使用MyEclipse等IDE开发工具，熟悉Tomcat服务器产品，熟悉安装、调试、发布配置应用；
+	-	掌握Linux的基本命令
+	-	掌握基本的vim命令
+	-	能够使用Sublime, PyCharm, Android Studio等IDE开发工具
 	-	能够熟练使用 Markdown 进行写作
-*	理解并能使用大多数(GOF)设计模式,遵循Java面向对象(OOP)设计原则；
+
+其他爱好
+---------
+*	运动（篮球，羽毛，乒乓等）
+*	看看书
+*	旅游，拍照
+*	美食
